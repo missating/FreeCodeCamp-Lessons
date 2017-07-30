@@ -1,6 +1,6 @@
 <strong> Build A Random Quote Machine </strong>
 
-This was done with html, css and js. Using animate.css to add a bounce in animation for every new quote when button the button is clicked.
+This was done with html, css and js using api. Using animate.css to add a bounce in animation for every new quote when button the button is clicked.
 
 The following was required of the page: 
  
@@ -9,10 +9,12 @@ The following was required of the page:
  User Story: I can press a button to tweet out a quote.
  
 <strong> Link to project: </strong> https://codepen.io/missating/full/VWGNGr/
+
+
   
 <strong> Show the Local Weather </strong>
 
-This was done with html, css and js.
+This was done with html, css and js using api.
 
 The following was required of the page: 
  
@@ -20,8 +22,22 @@ Fulfill the below user stories.
 User Story: I can see the weather in my current location.
 User Story: I can see a different icon or background image (e.g. snowy mountain, hot desert) depending on the weather.
 User Story: I can push a button to toggle between Fahrenheit and Celsius.
+
+<strong> Link to project: </strong> https://codepen.io/missating/pen/jwejNV/
+
+
+  
+<strong> Build a wikipedia Viewer </strong>
+
+This was done with html, css and js using api.
+
+The following was required of the page: 
  
-  <strong> Link to project: </strong> https://codepen.io/missating/pen/jwejNV
+Fulfill the below user stories. 
+User Story: I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
+User Story: I can click a button to see a random Wikipedia entry.
+ 
+<strong> Link to project: </strong> https://codepen.io/missating/full/VzvaRz/
 
 
  
