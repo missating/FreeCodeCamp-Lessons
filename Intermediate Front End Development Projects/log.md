@@ -40,6 +40,23 @@ User Story: I can click a button to see a random Wikipedia entry.
 <strong> Link to project: </strong> https://codepen.io/missating/full/VzvaRz/
 
 
+
+
+<strong> Use the Twitchtv JSON API </strong>
+
+This was done with html, css and js using api.
+
+The following was required of the page: 
+ 
+Fulfill the below user stories. 
+User Story: I can see whether Free Code Camp is currently streaming on Twitch.tv.
+User Story: I can click the status output and be sent directly to the Free Code Camp's Twitch.tv channel.
+User Story: if a Twitch user is currently streaming, I can see additional details about what they are streaming.
+ 
+<strong> Link to project: </strong> https://codepen.io/missating/full/qXqMXN/
+
+
+
  
  
  
