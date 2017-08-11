@@ -16,7 +16,7 @@ The following was required of the page:
  
  <strong> Build A Personal Portfolio Webpage </strong>
 
-This was done with html, and css(bootstrap framework), but it is not yet personal just a representation of the required page.
+This was done with html, and css(bootstrap framework).
  
 The following was required of the page: 
 User Story: I can access all of the portfolio webpage's content just by scrolling.
@@ -25,7 +25,7 @@ User Story: I can see thumbnail images of different projects the portfolio creat
 User Story: I navigate to different sections of the webpage by clicking buttons in the navigation.
 
  
- <strong> Link to project: </strong> https://codepen.io/missating/pen/jwBOjP
+ <strong> Link to project: </strong> https://codepen.io/missating/full/jwBOjP/
  
  
  
