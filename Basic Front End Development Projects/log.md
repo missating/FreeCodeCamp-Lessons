@@ -11,7 +11,7 @@ The following was required of the page:
  Give it your own personal style.
 
  
- <strong> Link to project: </strong> https://codepen.io/missating/pen/LLxKWy
+ <strong> Link to project: </strong> https://codepen.io/missating/full/LLxKWy/
  
  
  <strong> Build A Personal Portfolio Webpage </strong>
