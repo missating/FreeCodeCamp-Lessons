@@ -16,4 +16,21 @@ User Story: I can keep chaining mathematical operations together until I hit the
  <strong> Link to project: </strong> https://codepen.io/missating/full/GvQMBb/
  
  
+<strong> Build A Pomodoro Clock </strong>
+
+This was done with html, css and Jquery.
+ 
+The following was required of the clock: 
+ 
+ 
+Fulfill the below user stories.
+
+User Story: I can start a 25 minute pomodoro, and the timer will go off once 25 minutes has elapsed.
+User Story: I can reset the clock for my next pomodoro.
+User Story: I can customize the length of each pomodoro.
+
+ 
+ <strong> Link to project: </strong> https://codepen.io/missating/full/Yxvxym
+ 
+ 
  
