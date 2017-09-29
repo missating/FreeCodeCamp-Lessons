@@ -47,7 +47,7 @@ function updateRecords(id, prop, value) {
   if(value == "") {
     delete collection[id][prop];
   }
-  
+ 
   //console.log(collection)
   return collection;
 }
